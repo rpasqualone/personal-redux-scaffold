@@ -1,6 +1,6 @@
-# React Redux Weather Forecast
+# React Redux Scaffold
 
-React application using Redux that allows user to search weather forecasts. Done to experiment with Redux and async operations.
+Simple scaffold for a React/Redux application using webpack.
 
 ###Getting Started###
 
@@ -10,8 +10,8 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-	> git clone https://github.com/rpasqualone/react-redux-weather-forecast.git
-	> cd react-redux-weather-forecast
+	> git clone https://github.com/rpasqualone/react-redux-scaffold.git
+	> cd react-redux-scaffold
 	> npm install
 	> npm start
 ```
